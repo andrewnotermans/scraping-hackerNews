@@ -20,4 +20,4 @@ This project is a Python script that scrapes Hacker News for the latest stories 
 1. Clone the repository:
    ```bash
    git clone https://github.com/andrewnotermans/scrape-1.git
-   cd hacker-news-scraper
+   
